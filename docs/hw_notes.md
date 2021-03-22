@@ -10,6 +10,8 @@
 ### STM32F756IGT6  
 [https://www.digikey.dk/product-detail/da/stmicroelectronics/STM32F756IGT6/497-16616-ND/6137827](Link)
 
+* ZEPHYR MIGHT ALREADY HAVE SUPPORT FOR THIS SoC!!!
+
 * EXPENSIVE (100 kr)
 * Ethernet ready
 * Camera interface
